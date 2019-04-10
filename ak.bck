@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP6043
+D Single Supply, 345 MHz, Rail-to-Rail Output, Amplifier, TSOT-23-6
+K opamp operational amplifier single
+F http://www.ti.com/lit/ds/symlink/lmh6612.pdf
+$ENDCMP
+#
+#End Doc Library
