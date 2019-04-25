@@ -1,0 +1,9 @@
+(module SLOT_15x1.5MM (layer F.Cu) (tedit 5CC1C68F)
+  (fp_text reference REF** (at 0 11) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value SLOT_15x1.5MM (at 0 -11) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole oval (at 0 0) (size 1.5 15) (drill oval 1.5 15) (layers *.Cu *.Mask))
+)
