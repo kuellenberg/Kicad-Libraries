@@ -24,6 +24,12 @@ K AVR 8bit Microcontroller MegaAVR
 F http://ww1.microchip.com/downloads/en/DeviceDoc/40001909A.pdf
 $ENDCMP
 #
+$CMP EA_DOGS104B-ERW
+D LCD 4x10 character display blue transmissive background, +3.3V VDD, I2C or SPI
+K display LCD graphic
+F http://www.lcd-module.com/fileadmin/eng/pdf/doma/dogs104e.pdf
+$ENDCMP
+#
 $CMP MCP6043
 D Single Supply, 345 MHz, Rail-to-Rail Output, Amplifier, TSOT-23-6
 K opamp operational amplifier single

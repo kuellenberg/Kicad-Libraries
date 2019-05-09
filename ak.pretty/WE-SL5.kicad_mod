@@ -1,4 +1,4 @@
-(module WE-SL5 (layer F.Cu) (tedit 5C645B91)
+(module WE-SL5 (layer F.Cu) (tedit 5CD2C850)
   (fp_text reference REF** (at 0 6.35) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -13,7 +13,7 @@
   (pad 2 smd rect (at -3.81 -3.175) (size 2.7 2.7) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -3.81 3.175) (size 2.7 2.7) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 3.81 3.175) (size 2.7 2.7) (layers F.Cu F.Paste F.Mask))
-  (model "${KICAD_USER_3DMOD}/User Library-WURTH_744272471.STEP"
+  (model "${KIUSER3DMOD}/User Library-WURTH_744272471.STEP"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
