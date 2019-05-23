@@ -24,6 +24,12 @@ K AVR 8bit Microcontroller MegaAVR
 F http://ww1.microchip.com/downloads/en/DeviceDoc/40001909A.pdf
 $ENDCMP
 #
+$CMP C-2301995-3
+D 1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX
+K RJ45 Magjack
+F https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF
+$ENDCMP
+#
 $CMP EA_DOGS104B-ERW
 D LCD 4x10 character display blue transmissive background, +3.3V VDD, I2C or SPI
 K display LCD graphic
