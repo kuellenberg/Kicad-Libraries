@@ -36,6 +36,12 @@ K display LCD graphic
 F http://www.lcd-module.com/fileadmin/eng/pdf/doma/dogs104e.pdf
 $ENDCMP
 #
+$CMP LED_BGR
+D RGB LED, 6 pin package
+K LED RGB diode
+F ~
+$ENDCMP
+#
 $CMP MCP6043
 D Single Supply, 345 MHz, Rail-to-Rail Output, Amplifier, TSOT-23-6
 K opamp operational amplifier single
