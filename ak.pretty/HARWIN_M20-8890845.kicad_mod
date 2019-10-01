@@ -1,4 +1,4 @@
-(module HARWIN_M20-8890845 (layer F.Cu) (tedit 5D6E3DF4)
+(module HARWIN_M20-8890845 (layer F.Cu) (tedit 5D867C7B)
   (fp_text reference REF** (at 8.89 -5.08) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
