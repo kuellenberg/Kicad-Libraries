@@ -132,4 +132,10 @@ K opamp operational amplifier single
 F http://www.ti.com/lit/ds/symlink/lmh6612.pdf
 $ENDCMP
 #
+$CMP Q_PMOS_SSSGDDDD
+D P-MOSFET transistor, source/gate/drain
+K transistor PMOS P-MOS P-MOSFET
+F ~
+$ENDCMP
+#
 #End Doc Library
