@@ -126,6 +126,10 @@ K LED RGB diode
 F ~
 $ENDCMP
 #
+$CMP LMV301
+K opamp operational amplifier single
+$ENDCMP
+#
 $CMP MCP6043
 D Single Supply, 345 MHz, Rail-to-Rail Output, Amplifier, TSOT-23-6
 K opamp operational amplifier single
@@ -136,6 +140,12 @@ $CMP Q_PMOS_SSSGDDDD
 D P-MOSFET transistor, source/gate/drain
 K transistor PMOS P-MOS P-MOSFET
 F ~
+$ENDCMP
+#
+$CMP RY611012
+D FINDER 32.21-x000, Single Pole Relay, 6A
+K Single Pole Relay
+F https://gfinder.findernet.com/assets/Series/355/S32EN.pdf
 $ENDCMP
 #
 #End Doc Library

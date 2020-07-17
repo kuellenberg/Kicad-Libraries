@@ -126,6 +126,10 @@ K LED RGB diode
 F ~
 $ENDCMP
 #
+$CMP LMV301
+K opamp operational amplifier single
+$ENDCMP
+#
 $CMP MCP6043
 D Single Supply, 345 MHz, Rail-to-Rail Output, Amplifier, TSOT-23-6
 K opamp operational amplifier single
@@ -136,6 +140,11 @@ $CMP Q_PMOS_SSSGDDDD
 D P-MOSFET transistor, source/gate/drain
 K transistor PMOS P-MOS P-MOSFET
 F ~
+$ENDCMP
+#
+$CMP RY611012
+D SCHRACK Miniature Power PCB RYII
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FRYII%7F0420%7Fpdf%7FEnglish%7FENG_DS_RYII_0420.pdf%7F1-1393225-9
 $ENDCMP
 #
 #End Doc Library
