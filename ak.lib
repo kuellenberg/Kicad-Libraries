@@ -528,8 +528,8 @@ ENDDEF
 #
 # Lemonhead
 #
-DEF Lemonhead G 0 40 N N 1 F N
-F0 "G" 0 0 50 H V C CNN
+DEF Lemonhead LOGO 0 40 N N 1 F N
+F0 "LOGO" 0 0 50 H I C CNN
 F1 "Lemonhead" 0 -100 50 H V C CNN
 F2 "ak:lemonhead" 0 -50 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
