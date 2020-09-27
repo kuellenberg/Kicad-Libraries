@@ -1,4 +1,4 @@
-(module PC_1861933_2POS (layer F.Cu) (tedit 5F59EA43)
+(module PC_1861933_2POS (layer F.Cu) (tedit 5F5B3A1F)
   (fp_text reference REF** (at -0.5 -5.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -18,7 +18,7 @@
   (pad 1 thru_hole circle (at 0 5) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 3.5 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 3.5 5) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
-  (model "C:/Users/Ondre/Desktop/pwm dauertest/step/pxc_1861933_01_SPTAF-1-2-3-5-IL_3D.stp"
+  (model $KIUSER3DMOD/pxc_1861933_01_SPTAF-1-2-3-5-IL_3D.stp
     (offset (xyz -2.5 -8 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
