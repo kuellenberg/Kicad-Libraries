@@ -142,12 +142,6 @@ K transistor PMOS P-MOS P-MOSFET
 F ~
 $ENDCMP
 #
-$CMP Q_SCR_KAGA
-D Silicon controlled rectifier, cathode/anode/gate
-K SCR thyristor
-F ~
-$ENDCMP
-#
 $CMP RY611012
 D SCHRACK Miniature Power PCB RYII
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FRYII%7F0420%7Fpdf%7FEnglish%7FENG_DS_RYII_0420.pdf%7F1-1393225-9
