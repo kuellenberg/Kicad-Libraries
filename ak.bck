@@ -114,6 +114,12 @@ K RJ45 Magjack
 F https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF
 $ENDCMP
 #
+$CMP Conn_Coaxial_x2_shield
+D double coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)
+K BNC SMA SMB SMC coaxial connector CINCH RCA
+F  ~
+$ENDCMP
+#
 $CMP EA_DOGS104B-ERW
 D LCD 4x10 character display blue transmissive background, +3.3V VDD, I2C or SPI
 K display LCD graphic
